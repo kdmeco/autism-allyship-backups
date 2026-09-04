@@ -1,0 +1,2044 @@
+[
+  {
+    "id": "0HhfhtI340ULlLCTYTyI",
+    "category": "School",
+    "description": "A remedial and special needs school in Kensington, Johannesburg. Address: 72 Roberts Ave, Kensington, Johannesburg, 2101",
+    "email": "",
+    "name": "Glenoaks Remedial and Special Needs School",
+    "phone": "011 624 1160",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://glenoaks.org.za"
+  },
+  {
+    "id": "1QL6xmEpeVVGZoWFv7Dj",
+    "category": "Diagnosis & assessment",
+    "description": "A psychiatrist in private practice in Walmer, Gqeberha. Address: 26 9th Ave, Walmer, Gqeberha, 6070",
+    "email": "",
+    "name": "Margo de Vries, Psychiatrist",
+    "phone": "041 364 2790",
+    "provinces": [
+      "Eastern Cape"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "1TfXyl5xi6lr26IpLh1B",
+    "category": "School",
+    "description": "A school for learners with epilepsy and related neurological conditions, based in Derdepoortpark, Pretoria. Address: 200 Jan Coetzee St, Derdepoortpark, Pretoria, 0186",
+    "email": "",
+    "name": "Transvalia School",
+    "phone": "012 880 1420",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "2TSljyqE5PCsaccagbKp",
+    "category": "Therapy",
+    "description": "A psychology practice based in Cornwall Hill, Centurion. Address: 66 Kelly Bray Lane, Cornwall Hill, Centurion, 0178",
+    "email": "admin@psychologyworx.co.za",
+    "name": "Psychology Worx",
+    "phone": "012 667 1792",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "37JwylmFajIeiyPpJdwz",
+    "category": "School",
+    "description": "A government special needs school for learners with mild to moderate disabilities. Address: 63 Ross Gradwell St, Vanes Estate, Kariega, 6229",
+    "email": "bergsig@trltech.co.za",
+    "name": "Bergsig Special School",
+    "phone": "041 966 1130",
+    "provinces": [
+      "Eastern Cape"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "3FbdJHgRPP1vgknYiXwN",
+    "category": "National organisation",
+    "description": "A disability information portal providing guidance on rights, policies, assistive devices and support networks across five categories of impairment, including neurological.",
+    "email": "info@disa.org.za",
+    "name": "Disability Information South Africa (DiSA)",
+    "phone": "084 504 9176",
+    "provinces": [
+      "National"
+    ],
+    "published": true,
+    "website": "https://disabilityinfosa.org.za"
+  },
+  {
+    "id": "3HI4BM9E6sJZhdhwMEgD",
+    "category": "School",
+    "description": "An independent remedial school in White River aiming to be a centre of remedial education for the province.",
+    "email": "",
+    "name": "Flamboyant School",
+    "phone": "",
+    "provinces": [
+      "Mpumalanga"
+    ],
+    "published": true,
+    "website": "https://flamboyantschool.co.za"
+  },
+  {
+    "id": "3Mb73OexSOjQ1wq9PQlq",
+    "category": "Adult services",
+    "description": "A vocal and therapy centre for autistic adults with an attached residential facility, operating since 2002 and affiliated with Autism South Africa. Address: 216 18th Avenue, Rietondale, Pretoria",
+    "email": "",
+    "name": "Lethabo Le Khutso Autism Adult Care",
+    "phone": "012 329 3627",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "3kgKMOeiJyAgnLTWAdob",
+    "category": "National organisation",
+    "description": "The national autism organisation, established in 1989. Offers free telephonic and email support, post-diagnosis counselling, referrals to provincial service providers, guidance on applying to government schools, training for educators, and national advocacy work. Address: 24 Sussex Road, Parkwood, Johannesburg, 2193",
+    "email": "info@autismsouthafrica.org",
+    "name": "Autism South Africa (A;SA)",
+    "phone": "011 484 9909",
+    "provinces": [
+      "National"
+    ],
+    "published": true,
+    "website": "https://aut2know.co.za"
+  },
+  {
+    "id": "3ycSB5DmsxWSeIQ2xyJw",
+    "category": "School",
+    "description": "A government-funded special needs school serving learners with intellectual disabilities. Address: 192 Unit A, Lebowakgomo-A, Lebowakgomo, 0737",
+    "email": "",
+    "name": "Kasedi Special School",
+    "phone": "015 632 4044",
+    "provinces": [
+      "Limpopo"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "4VHY5ZWMqC8cy14KeAfc",
+    "category": "School",
+    "description": "The only state school in the Eastern Cape catering exclusively for autistic learners, taking pupils aged 6 to 18 with a hostel for children from outside the Nelson Mandela Bay metro. Address: 2 Hoy Street, South End, Gqeberha",
+    "email": "admin@questschool.co.za",
+    "name": "Quest School for Learners with Autism",
+    "phone": "041 581 0964",
+    "provinces": [
+      "Eastern Cape"
+    ],
+    "published": true,
+    "website": "https://facebook.com/questschool"
+  },
+  {
+    "id": "4kzVkDQdOyXa0hiTYIc4",
+    "category": "Therapy",
+    "description": "A play-therapy practice led by Dr Carla Winter, offering play therapy and parent guidance and counselling in Lyttelton. Address: 265 Glover Avenue, Lyttelton, Centurion",
+    "email": "carla@childtherapycenturion.co.za",
+    "name": "Child Therapy Centurion",
+    "phone": "082 638 5202",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://childtherapycenturion.co.za"
+  },
+  {
+    "id": "4lfSaY1rWpuXrKC4nJTQ",
+    "category": "Recreation",
+    "description": "An inclusive pre-school and specially adapted playground in Plumstead, Cape Town, run by the Chaeli Campaign and designed to be accessible for children of all abilities. Shares its site with the Chaeli Sports & Recreation Club. Address: 16 Culm Road, Plumstead, Cape Town, 7800",
+    "email": "info@chaelicampaign.org",
+    "name": "Chaeli Cottage",
+    "phone": "021 762 3835",
+    "provinces": [
+      "Western Cape"
+    ],
+    "published": true,
+    "website": "https://chaelicampaign.org"
+  },
+  {
+    "id": "4on3zId1kC4Ijojibzzc",
+    "category": "School",
+    "description": "One of the largest government schools in South Africa for learners with a primary diagnosis of autism, based at the Children's Memorial Institute in Braamfontein. Serves learners aged 3 to 20 with a maximum of eight per class, supported by a multidisciplinary therapy team, a skills centre, and a vocational-training coffee shop. Enrolment is arranged through the Gauteng Department of Education district office. Address: Children's Memorial Institute, Braamfontein, Johannesburg",
+    "email": "info@js4autism.co.za",
+    "name": "Johannesburg School for Autism",
+    "phone": "011 484 9608",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://js4autism.co.za"
+  },
+  {
+    "id": "4sPlC3Xnx90qr58k8mIH",
+    "category": "School",
+    "description": "A government special needs school in Kimberley. Address: 23 Mcdougal Street, South Ridge, Kimberley, 8301",
+    "email": "",
+    "name": "NJ Heyns Skool",
+    "phone": "053 832 8915",
+    "provinces": [
+      "Northern Cape"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "5CEdw3Jz3DQQIM364fsM",
+    "category": "Support group",
+    "description": "Provides support with special needs school applications, a social group for young people (Starfish), and awareness and information sharing.",
+    "email": "clmassyn@gmail.com",
+    "name": "Port Elizabeth Down Syndrome Association",
+    "phone": "083 261 8228",
+    "provinces": [
+      "Eastern Cape"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "6RhglpScuMtaE9RyY71r",
+    "category": "Support group",
+    "description": "Offers care-needs assessments, professional counselling, social work referral, and connection to support groups for people affected by movement disorders. Primarily serves people with Parkinson's and Huntington's disease; around 4% of clients supported have Tourette's Syndrome. Address: 645 Rudolf St",
+    "email": "",
+    "name": "Movement Disorder Support (MDS)",
+    "phone": "083 309 4600",
+    "provinces": [
+      "National"
+    ],
+    "published": true,
+    "website": "https://movementdisorders.co.za"
+  },
+  {
+    "id": "7HUtz7eZdzeBzAku3YTf",
+    "category": "School",
+    "description": "A special education school in Bloemfontein working with learners with autism and related conditions. Address: 17 Opperman St, Wilgehof, Bloemfontein, 9321",
+    "email": "",
+    "name": "Inspirare Academy",
+    "phone": "079 894 9637",
+    "provinces": [
+      "Free State"
+    ],
+    "published": true,
+    "website": "https://inspirareacademy.co.za"
+  },
+  {
+    "id": "8oMS2btgKoZNyi3aOtO1",
+    "category": "School",
+    "description": "A remedial special-needs school in East London serving learners with learning barriers through tailored education and therapy-led programmes. Address: 61 Kimberley Rd, KuGompo City, East London, 5201",
+    "email": "",
+    "name": "Arcadia School",
+    "phone": "043 743 5503",
+    "provinces": [
+      "Eastern Cape"
+    ],
+    "published": true,
+    "website": "https://arcadiaps.co.za"
+  },
+  {
+    "id": "8oQFBfkQ31W1GFte1yna",
+    "category": "Support group",
+    "description": "Serving East London and the Amathole district since 1996, this association offers parent support, early intervention, inclusive education support, counselling, outreach, support groups and workshops, and assistance applying for disability grants. Address: 2 Dunn Street, Arcadia, East London, 5201",
+    "email": "dsaael@telkomsa.net",
+    "name": "Down Syndrome Association Amathole",
+    "phone": "043 722 4918",
+    "provinces": [
+      "Eastern Cape"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "943HjEF07xP5VQOh4Yyb",
+    "category": "Therapy",
+    "description": "A transdisciplinary team of mental health professionals in Pretoria offering neurodiversity-affirming, evidence-based care for children, adolescents and young adults.",
+    "email": "info@ndhive.co.za",
+    "name": "The Neurodiversity Hive",
+    "phone": "083 676 1462",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://ndhive.co.za"
+  },
+  {
+    "id": "9HBFfmRDMqLfocEaWs3z",
+    "category": "School",
+    "description": "A school serving learners in Waverley, Johannesburg. Address: 80 Athol St, Waverley, Johannesburg, 2192",
+    "email": "",
+    "name": "The Star Academy",
+    "phone": "011 440 7796",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://thestaracademy.co.za"
+  },
+  {
+    "id": "9j0f9EP45wWCOUJu9w1R",
+    "category": "School",
+    "description": "A school serving Bloemfontein. Address: 1 Fowler St, Bloemfontein",
+    "email": "",
+    "name": "Sage Academy",
+    "phone": "061 294 7882",
+    "provinces": [
+      "Free State"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "9wI8Acr908NDnsGr5ImZ",
+    "category": "School",
+    "description": "A tutor and therapy centre in Eldoraigne, Centurion, working with learners on the autism spectrum and those with speech and language delays. Address: 41-7 Weavind Ave, Eldoraigne, Centurion, 0157",
+    "email": "admin@situla.co.za",
+    "name": "Situla",
+    "phone": "083 276 0529",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://situla.co.za"
+  },
+  {
+    "id": "BH7Ond10MtxCwIHWc4yd",
+    "category": "School",
+    "description": "The provincial education department, contactable for guidance on government school placement.",
+    "email": "",
+    "name": "Northern Cape Department of Education",
+    "phone": "053 839 6500",
+    "provinces": [
+      "Northern Cape"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "BQmzG5MVq25kXUbwhIW5",
+    "category": "Therapy",
+    "description": "A multidisciplinary practice offering assessment, intervention, support groups and training across autism, ADHD and related conditions.",
+    "email": "hello@neurodiversitycentre.co.za",
+    "name": "The Neurodiversity Centre — Durban North",
+    "phone": "031 940 0395",
+    "provinces": [
+      "KwaZulu-Natal"
+    ],
+    "published": true,
+    "website": "https://neurodiversitycentre.co.za"
+  },
+  {
+    "id": "BawppXFhqpK6akr9CRRS",
+    "category": "Therapy",
+    "description": "A specialist clinic focused on attention deficit disorder diagnosis and support. Address: E-Med Centre, 18 Aimee Street, Malibongwe Dr, Randburg, 2194",
+    "email": "info@addlab.co.za",
+    "name": "The ADD Lab",
+    "phone": "011 888 9334",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "BmGWlXM3cAqp92QetwXJ",
+    "category": "Grants & financial",
+    "description": "A monthly government grant for adults who are unable to support themselves financially because of a disability. Requires a medical assessment report valid for three months, plus a means test.",
+    "email": "grantenquiries@sassa.gov.za",
+    "name": "South African Social Security Agency (SASSA) — Disability Grant",
+    "phone": "0800 60 10 11",
+    "provinces": [
+      "National"
+    ],
+    "published": true,
+    "website": "https://gov.za/services/social-benefits/disability-grant"
+  },
+  {
+    "id": "CBRdfzFBE9kUYRoEOpXw",
+    "category": "Adult services",
+    "description": "Run by Action in Autism, this centre offers practical adult skills training in catering, agriculture and entrepreneurship. Address: Durban North",
+    "email": "",
+    "name": "Shahumna Centre",
+    "phone": "031 563 3039",
+    "provinces": [
+      "KwaZulu-Natal"
+    ],
+    "published": true,
+    "website": "https://actioninautism.org.za"
+  },
+  {
+    "id": "CnPOBzDuBcvt4jG1aot9",
+    "category": "School",
+    "description": "A special needs school for children and young adults with severe disabilities, based in Clubview, Pretoria. Address: 69 Jim Van Der Merwe St, Clubview, Pretoria, 0157",
+    "email": "office@elshalem.co.za",
+    "name": "El-Shalem",
+    "phone": "074 770 7777",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://elshalem.co.za"
+  },
+  {
+    "id": "CyE4GJqWrc0gUL9s8VvS",
+    "category": "School",
+    "description": "An aftercare and tutoring centre in Wierdapark, Centurion. Address: 202 Theo Street, Wierdapark, Centurion, 1057",
+    "email": "info@kidzlogix.net",
+    "name": "Kidz Logix Aftercare and Tutor Centre",
+    "phone": "068 348 8606",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "DY6VVjCk6xA9evvHl0q9",
+    "category": "School",
+    "description": "A special needs school in Thaba Nchu offering CAPS-aligned academic and life-skills education for learners with intellectual and developmental disabilities. Address: Selosesha, Thaba Nchu, 9783",
+    "email": "",
+    "name": "Boitumelong Special School",
+    "phone": "051 874 1380",
+    "provinces": [
+      "Free State"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "DogaC9imFBYjTXBUAjd2",
+    "category": "Diagnosis & assessment",
+    "description": "A state psychiatric referral hospital serving the greater Cape Town area. Address: 1 Annex Road, Maitland, Cape Town, 7405",
+    "email": "Joy.Harding@westerncape.gov.za",
+    "name": "Alexandra Hospital",
+    "phone": "021 503 5009",
+    "provinces": [
+      "Western Cape"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "EVErYnr4dBynhZdsvYLj",
+    "category": "Support group",
+    "description": "The only walk-in autism resource centre in KwaZulu-Natal, established in 2005. Services include an early intervention centre for children aged 2 to 6, an assessment and therapy wing, free quarterly diagnostic clinics, parent training and family support networks. Address: 105 Haig Road, Parkhill, Durban North",
+    "email": "info@actioninautism.org.za",
+    "name": "Action in Autism",
+    "phone": "031 563 3039",
+    "provinces": [
+      "KwaZulu-Natal"
+    ],
+    "published": true,
+    "website": "https://actioninautism.org.za"
+  },
+  {
+    "id": "EamWfOeroOyVxvcG6Wd8",
+    "category": "School",
+    "description": "Founded in 1970, Vera was the first school in the world purpose-built for autistic learners. A public school in Rondebosch East for learners aged 6 to 18, with roughly 145 learners and an on-site hostel, teaching in both English and Afrikaans in parallel. Address: 20 Anglesey Road, Rondebosch East, Cape Town",
+    "email": "info@vera.co.za",
+    "name": "Vera School for Learners with Autism",
+    "phone": "021 696 2844",
+    "provinces": [
+      "Western Cape"
+    ],
+    "published": true,
+    "website": "https://vera.co.za"
+  },
+  {
+    "id": "F2yaoBjHGr12V9n2HYyv",
+    "category": "Support group",
+    "description": "Founded in 1967, this organisation provides free post-diagnosis counselling and ongoing support, caregiver and educator training, parent support groups, stimulation kits, advocacy, and adult programmes. Works on-site at partner state hospitals and schools to be closer to communities. Address: 12 Sprigg Road, Cape Town",
+    "email": "admin@awc.org.za",
+    "name": "Autism Western Cape",
+    "phone": "021 462 8232",
+    "provinces": [
+      "Western Cape"
+    ],
+    "published": true,
+    "website": "https://autismwesterncape.org.za"
+  },
+  {
+    "id": "FCGy3dG7MZfGrFbMl9wO",
+    "category": "Recreation",
+    "description": "Free therapeutic horse riding across two centres, Constantia and Noordhoek, serving learners from special needs schools as well as individual children and adults. The Sleepy Hollow branch also offers hippotherapy with physiotherapists, occupational therapists and speech therapists.",
+    "email": "",
+    "name": "SARDA Cape Town",
+    "phone": "",
+    "provinces": [
+      "Western Cape"
+    ],
+    "published": true,
+    "website": "https://sarda.co.za"
+  },
+  {
+    "id": "FmZzRfuubvLjuT0xVsB2",
+    "category": "Support group",
+    "description": "A provincial mental health organisation serving people with psychosocial and intellectual disabilities in Limpopo.",
+    "email": "lmhs@telkomsa.net",
+    "name": "Limpopo Mental Health Society",
+    "phone": "015 307 4732",
+    "provinces": [
+      "Limpopo"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "FvHHwRCP93hJTtHiti4y",
+    "category": "National organisation",
+    "description": "Provides free parent coaching, longer-term parent-led intervention training, caregiver and sibling support groups, and professional training for educators. Runs the #GameON programme (golf, tennis and fitness for ages 6–23) and autism-friendly rugby sessions. Services are delivered in-centre in Johannesburg and Cape Town, and telephonically and online nationwide. Address: Gate 13, Cnr Empire Rd & Joubert Street Ext, Braamfontein, Johannesburg",
+    "email": "sa.admin@elsforautism.org",
+    "name": "Els for Autism, South Africa",
+    "phone": "011 484 7254",
+    "provinces": [
+      "National"
+    ],
+    "published": true,
+    "website": "https://elsforautism.org"
+  },
+  {
+    "id": "G4Jd6bPjPLG3h9uPgDfK",
+    "category": "School",
+    "description": "An Afrikaans-medium public school for learners with special educational needs. Address: 42 Von Wielligh St, Rustenburg, 0299",
+    "email": "",
+    "name": "Rustenburg Skool vir Buitengewone Onderwys",
+    "phone": "014 597 0491",
+    "provinces": [
+      "North West"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "GGyu9UPd54bafxZsjNrf",
+    "category": "School",
+    "description": "A school serving the Raslouw area of Centurion. Address: 86 Baard Rd, Raslouw AH, Centurion, 0109",
+    "email": "admin@raslouwacademy.co.za",
+    "name": "Raslouw Academy",
+    "phone": "012 656 8563",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "HZeRq329IMzDIXDq7ZeB",
+    "category": "Therapy",
+    "description": "A practice offering a range of educational and neuropsychological therapies and assessments for children and teenagers. Address: 101 Fairview Dr, Constantia Kloof, Roodepoort, 1709",
+    "email": "",
+    "name": "Mizu Therapy & Assessment",
+    "phone": "060 529 6666",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://mizutherapyandassessment.co.za"
+  },
+  {
+    "id": "Hpgi4JZSRhMBKaLZbB8K",
+    "category": "Recreation",
+    "description": "A multi-room interactive sensory environment at the Children's Memorial Institute in Braamfontein, with themed spaces including a ball pond, sand therapy boxes, swings, trampolines and a chill zone. Bookable by individuals or groups, R50 per visitor per hour. Address: Gate 13, Joubert Street Extension, Braamfontein, Johannesburg, 2001",
+    "email": "sensoryspace8@gmail.com",
+    "name": "The Sensory Space",
+    "phone": "078 639 7610",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://sensory-space.com"
+  },
+  {
+    "id": "IL6khKqu9ZFKrInXdqG7",
+    "category": "School",
+    "description": "A remedial school offering classroom structures and life skills orientation for learners requiring specialised support, in Welkom. Address: 1 Zebra St, Doorn, Welkom",
+    "email": "",
+    "name": "Orion Special School",
+    "phone": "057 352 7166",
+    "provinces": [
+      "Free State"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "IRp9L6ZJjyvE7PJYPEZY",
+    "category": "School",
+    "description": "A dual-medium remedial school in Centurion offering smaller class sizes for learners who need additional support. Address: 21 Tamara Street, Tamara Park, Centurion, 0157",
+    "email": "",
+    "name": "Anchorage Academy",
+    "phone": "083 744 0065",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://anchorageacademy.co.za"
+  },
+  {
+    "id": "ISlTlyhSIrKWm9IQzADe",
+    "category": "Recreation",
+    "description": "A neurodiverse-run coffee shop in Sandton, operated by autistic and neurodivergent young adults as an employment and community initiative. Address: 126 Wroxham Rd, Rietfontein, Sandton, 2191",
+    "email": "specialkneadcafe@gmail.com",
+    "name": "Special Knead Cafe",
+    "phone": "082 415 1283",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "IvVXV5l2HFAAduCrWHka",
+    "category": "National organisation",
+    "description": "An interdisciplinary university research centre, founded in 2012, focused on autism in African contexts, including caregiver coaching programmes and early intervention research. Co-located with Red Cross Children's Hospital's neuropsychiatry clinic. Address: 46 Sawkins Road, Rondebosch, Cape Town, 7700",
+    "email": "rehana.effendi@uct.ac.za",
+    "name": "Centre for Autism Research in Africa (CARA), University of Cape Town",
+    "phone": "021 685 4103",
+    "provinces": [
+      "Western Cape"
+    ],
+    "published": true,
+    "website": "https://health.uct.ac.za/cara"
+  },
+  {
+    "id": "JG1Mw5uViUtLqJSZNx09",
+    "category": "School",
+    "description": "A remedial school serving learners in the Kyalami area. Address: 32 Macinnes Rd, Glenferness AH, Kyalami, 2091",
+    "email": "",
+    "name": "Arden Academy",
+    "phone": "010 446 2950",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "JaTqClWp7FXmQpBrpzeL",
+    "category": "School",
+    "description": "A private school in Lynnwood Glen, Pretoria, using the TheraEd approach to support learners with ADD, ADHD, dyslexia, dyspraxia and autism spectrum conditions, from Grade R to Grade 12. Address: 73 Boskop Street, Lynnwood Glen, Pretoria, 0084",
+    "email": "",
+    "name": "Edu Excellence Remedial School",
+    "phone": "069 893 4959",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://eduexcellence.co.za"
+  },
+  {
+    "id": "JsGup77B5vBh3GeGWwwy",
+    "category": "School",
+    "description": "A public special-needs school in Rustenburg educating around 200 to 220 learners aged 5 to Grade 12 with severe hearing loss, combining basic literacy with vocational training. Address: Phokeng, Rustenburg, 0335",
+    "email": "kutlwanong@gmail.com",
+    "name": "North West School for the Deaf",
+    "phone": "014 001 9948",
+    "provinces": [
+      "North West"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "K2DspWdc5up5UfmJbBeA",
+    "category": "Support group",
+    "description": "A regional Down syndrome support group serving the Kimberley area.",
+    "email": "dskimberley.outreach@gmail.com",
+    "name": "Down Syndrome Northern Cape",
+    "phone": "083 427 9258",
+    "provinces": [
+      "Northern Cape"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "KGzxoodIeChTvzRJ3o0e",
+    "category": "School",
+    "description": "A special needs school in Gqeberha with a dedicated ASD (Autism Spectrum Disorder) wing. Address: 1 Alan Dr, Mangold Park, Gqeberha, 6070",
+    "email": "",
+    "name": "Merryvale Special School",
+    "phone": "041 367 1957",
+    "provinces": [
+      "Eastern Cape"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "L2hV4wvO9hLGqHUqd9dw",
+    "category": "School",
+    "description": "A dual-language school delivering CAPS education with small classes, extracurriculars, boarding, and integrated on-site academic support. Address: Plot 8, Myngenoegen, Polokwane",
+    "email": "",
+    "name": "Curro Polokwane",
+    "phone": "015 263 8903",
+    "provinces": [
+      "Limpopo"
+    ],
+    "published": true,
+    "website": "https://gpjschool.co.za"
+  },
+  {
+    "id": "M9GZ8PVyZ3HKH1yfCmtT",
+    "category": "Sensory & equipment",
+    "description": "A supplier of AAC devices and sensory products for children with limited or no speech. Holds national tender RT275-2024 for assistive technology, and delivers nationwide from George.",
+    "email": "info@inclusivesolutions.co.za",
+    "name": "Inclusive Solutions",
+    "phone": "0860 888 121",
+    "provinces": [
+      "Western Cape"
+    ],
+    "published": true,
+    "website": "https://inclusivesolutions.co.za"
+  },
+  {
+    "id": "MRZg278PyTERR7pz5a45",
+    "category": "Support group",
+    "description": "A rural disability rights organisation near Port Shepstone, advocating for children with disabilities and learning barriers. Address: Bhambula, KwaNzimakwe, KwaZulu-Natal",
+    "email": "cathy@siyakwazi.org",
+    "name": "Siyakwazi",
+    "phone": "071 274 6285",
+    "provinces": [
+      "KwaZulu-Natal"
+    ],
+    "published": true,
+    "website": "https://siyakwazi.org"
+  },
+  {
+    "id": "MU8PdKUstJNAo8Y3TKea",
+    "category": "Helpline",
+    "description": "A national mental health non-profit running more than 180 free support groups and helplines, including a dedicated neurodiversity group, an OCD support group, and an information line for adults with ADHD.",
+    "email": "zane@anxiety.org.za",
+    "name": "South African Depression and Anxiety Group (SADAG)",
+    "phone": "011 234 4837",
+    "provinces": [
+      "National"
+    ],
+    "published": true,
+    "website": "https://sadag.org"
+  },
+  {
+    "id": "N26HVWsXZPSGuN3gXHMN",
+    "category": "Diagnosis & assessment",
+    "description": "Runs monthly paediatric neurology clinics, including outreach diagnostic workups from Tygerberg Hospital for autism assessment. Address: Murray Street, Worcester, 6850",
+    "email": "Sue-ann.Williams@westerncape.gov.za",
+    "name": "Worcester Hospital",
+    "phone": "023 348 1212",
+    "provinces": [
+      "Western Cape"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "N7GVP9OO3QOdzNM1Pgzi",
+    "category": "Therapy",
+    "description": "An occupational therapy practice based at the InsideOut Campus in Rooihuiskraal North. Address: Inside Out Campus, Lenchen Ave, Rooihuiskraal North, Centurion, 0157",
+    "email": "marolien@thriveot.co.za",
+    "name": "Thrive Occupational Therapy",
+    "phone": "060 507 1616",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://thriveot.co.za"
+  },
+  {
+    "id": "NLmFuXzyI7u7AUvpoDRp",
+    "category": "School",
+    "description": "A government school for learners with intellectual and physical disabilities. Address: 11 Richardson St, Baillie Park, Potchefstroom",
+    "email": "",
+    "name": "E.S. le Grange",
+    "phone": "018 290 7047",
+    "provinces": [
+      "North West"
+    ],
+    "published": true,
+    "website": "https://espotch.co.za"
+  },
+  {
+    "id": "O37BBCwgeBebh5dx3DGN",
+    "category": "National organisation",
+    "description": "A community-run portal listing neuro-affirming schools and practitioners searchable by location, with an active parent community on WhatsApp, Instagram and Facebook.",
+    "email": "",
+    "name": "The Neuroverse",
+    "phone": "",
+    "provinces": [
+      "National"
+    ],
+    "published": true,
+    "website": "https://theneuroverse.co.za"
+  },
+  {
+    "id": "OMLqQsfqsdmwjdyJHUKY",
+    "category": "Diagnosis & assessment",
+    "description": "The largest hospital in Africa, providing state referral services including paediatric and neurodevelopmental care. Address: 26 Chris Hani Road, Diepkloof, Soweto",
+    "email": "",
+    "name": "Chris Hani Baragwanath Academic Hospital",
+    "phone": "011 933 8000",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "OPDpVqfBbfFwBvIKdtuN",
+    "category": "Support group",
+    "description": "A sister organisation to The Neurodiversity Hive, providing a safe, neurodiversity-affirming space for teens who don't suit a mainstream schooling environment, along with homeschool curriculum support. Address: 1016 Jan Shoba Street, Brooklyn, Pretoria, 0181",
+    "email": "hello@learninghive.co.za",
+    "name": "Learning Hive",
+    "phone": "083 676 1462",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://learninghive.co.za"
+  },
+  {
+    "id": "OiP7ardMZYJZhBkgegGt",
+    "category": "School",
+    "description": "A special needs school in Kimberley. Address: Memorial Road, Southridge, Kimberley, 8301",
+    "email": "",
+    "name": "Elizabeth Conradie School",
+    "phone": "053 832 4354",
+    "provinces": [
+      "Northern Cape"
+    ],
+    "published": true,
+    "website": "https://elconwebsite.wixsite.com/elconwebsite"
+  },
+  {
+    "id": "OnuM0Uvo1Wy6grjx2hee",
+    "category": "Sensory & equipment",
+    "description": "An online and in-person shop selling sensory toys, chewellery, and locally made weighted blankets in custom weights. Also hosts a copy of the Department of Basic Education's special-needs school list by province. Delivers nationwide.",
+    "email": "info@autismresources.co.za",
+    "name": "Autism Resources South Africa",
+    "phone": "021 201 1238",
+    "provinces": [
+      "Western Cape"
+    ],
+    "published": true,
+    "website": "https://autismresources.co.za"
+  },
+  {
+    "id": "Opcb2Xa1R87Z9yXeJW5o",
+    "category": "School",
+    "description": "A specialist school for learners who are partially sighted or blind, based in Pretoria Central. Address: 19 Prinshof Street, Pretoria Central, 0002",
+    "email": "info@prinshof.co.za",
+    "name": "Prinshof School for Partially Sighted and Blind",
+    "phone": "012 328 4170",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://prinshof.co.za"
+  },
+  {
+    "id": "P9KkMxRXUeSNukU9RxnO",
+    "category": "School",
+    "description": "A preparatory school in Brooklyn, Pretoria. Address: 262 Murray Street, Brooklyn, Pretoria",
+    "email": "correspondence2@pretoriaprep.co.za",
+    "name": "Pretoria Preparatory School",
+    "phone": "012 362 0308",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "QZceo71DSYMdT7b2hJFM",
+    "category": "School",
+    "description": "A school in Malanshof, Randburg, supporting learners with special educational needs. Address: 20 Jan K Marais Ave, Malanshof, Randburg, 2194",
+    "email": "",
+    "name": "Footprints Special Need",
+    "phone": "083 457 7382",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://footprintschool.co.za"
+  },
+  {
+    "id": "QnlaonvXHAvha9JIK4Tf",
+    "category": "Support group",
+    "description": "South Africa's national dyslexia organisation, supporting people with dyslexia, dyscalculia and dysgraphia and their families. Liaises with the Department of Basic Education, runs teacher and community awareness programmes, and operates a trust that funds assessments for children whose families can't afford one. Address: 8 Severn Drive, Three Rivers, Vereeniging",
+    "email": "info@dyslexiasa.org",
+    "name": "Red Apple Dyslexia Association (RADA)",
+    "phone": "016 454 0281",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://dyslexiasa.org"
+  },
+  {
+    "id": "R5Q2TbI2UVVXimxczYdi",
+    "category": "Recreation",
+    "description": "Free therapeutic horse riding for children with special needs from schools and childcare facilities across greater Durban, based at the South African Jockey Academy with an undercover arena. Address: 15 JB McIntosh Dr, Summerveld, Outer West Durban, 3650",
+    "email": "",
+    "name": "SARDA Durban",
+    "phone": "031 201 1611",
+    "provinces": [
+      "KwaZulu-Natal"
+    ],
+    "published": true,
+    "website": "https://sardadurban.org.za"
+  },
+  {
+    "id": "RaTpZp2xxn7aYWyyJavZ",
+    "category": "School",
+    "description": "Supports learners with moderate to severe cognitive and physical disabilities within an independent school in Polokwane.",
+    "email": "",
+    "name": "Mitchell House — Enrichment Centre",
+    "phone": "",
+    "provinces": [
+      "Limpopo"
+    ],
+    "published": true,
+    "website": "https://mitchellhouse.co.za"
+  },
+  {
+    "id": "RrVtxkZRljSS7aJifmR0",
+    "category": "Early intervention",
+    "description": "Provides 1:1 autism intervention therapy and school-readiness classes for young children in Durban. Address: 45 Innes Rd, Windermere, Berea, Durban, 4001",
+    "email": "",
+    "name": "Hands and Hearts Autism Interventions",
+    "phone": "076 528 7898",
+    "provinces": [
+      "KwaZulu-Natal"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "TCU7Mh3eyLtNdM24GlIA",
+    "category": "School",
+    "description": "A special needs school serving Klerksdorp. Address: Cnr Goldenway & Kleynhans Street, Pienaarsdorp, Klerksdorp",
+    "email": "",
+    "name": "Keurhoff Special School",
+    "phone": "",
+    "provinces": [
+      "North West"
+    ],
+    "published": true,
+    "website": "https://keurhof.co.za"
+  },
+  {
+    "id": "TfswF4WSHtrdrmBw2xA0",
+    "category": "School",
+    "description": "A special-needs school offering individualised learning support for learners with cognitive challenges in Virginia. Address: Virginia, 9430",
+    "email": "",
+    "name": "Nobilis Skool",
+    "phone": "072 058 7941",
+    "provinces": [
+      "Free State"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "U1VVwl1grbvcWubjZAcb",
+    "category": "Diagnosis & assessment",
+    "description": "A counselling psychologist registered with the Health Professions Council of South Africa, practising in Nahoon, East London. Address: Nahoon, East London",
+    "email": "",
+    "name": "Dr Dane Channon, Counselling Psychologist",
+    "phone": "043 721 2890",
+    "provinces": [
+      "Eastern Cape"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "U5ASEAudXigVnhUsG2dz",
+    "category": "School",
+    "description": "A public benefit school in Menlo Park, Pretoria, for autistic learners aged 3 to 18, with roughly 107 learners and on-site hostel facilities. Waiting lists run around three years. Address: Menlo Park, Pretoria",
+    "email": "admin@unicaschool.co.za",
+    "name": "Unica School for Autism",
+    "phone": "012 346 1103",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://unicaschool.co.za"
+  },
+  {
+    "id": "UatPKxB5QHp1MCxd6wu8",
+    "category": "School",
+    "description": "Offers ADHD specialist support integrated within a mainstream curriculum. Address: 1 Bath Road, Glenwood, Durban, 4083",
+    "email": "info@glenwoodprep.co.za",
+    "name": "Glenwood Preparatory School",
+    "phone": "031 201 5165",
+    "provinces": [
+      "KwaZulu-Natal"
+    ],
+    "published": true,
+    "website": "https://glenwoodprep.co.za"
+  },
+  {
+    "id": "Uru27luLrsnqfdpjNUhA",
+    "category": "Grants & financial",
+    "description": "The provincial social development department, contactable regarding disability grants and social services.",
+    "email": "",
+    "name": "Northern Cape Department of Social Development",
+    "phone": "053 872 4000",
+    "provinces": [
+      "Northern Cape"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "V7JnPmWQBVxldf5AR21d",
+    "category": "Recreation",
+    "description": "A coffee shop in Durban North with a dedicated sensory play room for children aged 0 to 3, designed by a soft play specialist. R50 per hour. Address: 20 Mackeurtan Ave, Durban North, 4051",
+    "email": "",
+    "name": "Tap Coffee Corner — Sensory Cottage",
+    "phone": "031 563 0882",
+    "provinces": [
+      "KwaZulu-Natal"
+    ],
+    "published": true,
+    "website": "https://dncc.org.za/tap-coffee-corner"
+  },
+  {
+    "id": "VBxP4tPKHtZiOArMiBo9",
+    "category": "Support group",
+    "description": "A provincial disability organisation providing support and services across Limpopo. Address: 2 Pafuri Ave, Polokwane",
+    "email": "apdnprov@mweb.co.za",
+    "name": "Association for Persons with Disabilities (APD) Limpopo",
+    "phone": "015 291 1787",
+    "provinces": [
+      "Limpopo"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "VRe3tNRCRav5AOCiQuyH",
+    "category": "School",
+    "description": "A private day school and aftercare offering Grade RR to Grade 7 education for learners with Autism Spectrum Disorder in a small, therapeutic, individualised environment. Address: 17 Luke Street, Potchefstroom",
+    "email": "info@theolivetreeschool.co.za",
+    "name": "The Olive Tree School",
+    "phone": "073 081 9966",
+    "provinces": [
+      "North West"
+    ],
+    "published": true,
+    "website": "https://theolivetreeschool.co.za"
+  },
+  {
+    "id": "VcKLfHQinBvwqpt8PlPo",
+    "category": "School",
+    "description": "A government school in Polokwane. Address: 56 Webster Street, Polokwane Ext 4",
+    "email": "",
+    "name": "General Piet Joubert School",
+    "phone": "015 295 9265",
+    "provinces": [
+      "Limpopo"
+    ],
+    "published": true,
+    "website": "https://gpjschool.co.za"
+  },
+  {
+    "id": "VnPByuGOKoi1OVTppqcQ",
+    "category": "School",
+    "description": "A special needs school in Kimberley.",
+    "email": "",
+    "name": "Jannie Brink School",
+    "phone": "053 841 0139",
+    "provinces": [
+      "Northern Cape"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "VwhZwe4oIjl8JNgLy69x",
+    "category": "Recreation",
+    "description": "Sensory-adapted rugby sessions for primary-school-aged children with, or suspected to have, autism, run by Els for Autism.",
+    "email": "",
+    "name": "Els for Autism — Autism-Friendly Rugby Sessions",
+    "phone": "011 484 7254",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://elsforautism.org"
+  },
+  {
+    "id": "Ww9IQlGd0gYPAOj1hgtm",
+    "category": "Support group",
+    "description": "A free support group for parents of children with ADHD, autism or dyslexia, meeting on Zoom every two weeks.",
+    "email": "",
+    "name": "SADAG Parents of Neurodivergent Children Support Group",
+    "phone": "071 362 6120",
+    "provinces": [
+      "National"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "XRbo8EqHfb8OGwKn94O8",
+    "category": "School",
+    "description": "A Christian-ethos non-profit preschool offering CAPS-aligned early education for Grade R to Grade 3 in a nurturing, small-class environment. Address: 153 Marshall Street, Polokwane, 0699",
+    "email": "oakwood@mweb.co.za",
+    "name": "Oakwood Academy",
+    "phone": "078 439 6545",
+    "provinces": [
+      "Limpopo"
+    ],
+    "published": true,
+    "website": "https://oakwoodacademy.co.za"
+  },
+  {
+    "id": "XWRYRDMsL14xVIeoNW9w",
+    "category": "Therapy",
+    "description": "An established, PANDA-registered ADHD coaching and training practice for parents, families, teens, adults and educators, based in Johannesburg.",
+    "email": "",
+    "name": "Living ADDventure (LADD)",
+    "phone": "082 561 0056",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://ladd.co.za"
+  },
+  {
+    "id": "XqiIoX3bKXi7Ywdgkrk9",
+    "category": "Support group",
+    "description": "A regional Down syndrome support group.",
+    "email": "",
+    "name": "Down Syndrome South Africa — KwaZulu-Natal Support Group",
+    "phone": "078 144 6767",
+    "provinces": [
+      "KwaZulu-Natal"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "YXX2cnLrku8VNf6a163x",
+    "category": "Diagnosis & assessment",
+    "description": "A psychiatrist in private practice in Walmer, Port Elizabeth. Address: Walmer, Port Elizabeth",
+    "email": "",
+    "name": "Sonja Prinsloo, Psychiatrist",
+    "phone": "041 581 2567",
+    "provinces": [
+      "Eastern Cape"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "Z4RS2oAotp55bEc1iJqj",
+    "category": "Therapy",
+    "description": "A joint occupational and speech therapy practice in Doringkloof, Centurion. Address: Irene Close Office Park, 8 Impala Ave, Doringkloof, Centurion, 0157",
+    "email": "",
+    "name": "Irene Therapy Centre",
+    "phone": "012 667 3998",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://i-therapy.co.za"
+  },
+  {
+    "id": "ZB7iJN10sXwJQgw2r2ZU",
+    "category": "Support group",
+    "description": "The national body advocating for the rights of people with Down syndrome and other intellectual disabilities, coordinating 12 regional support and outreach associations around the country. Address: 93 Lyttelton Road, Clubview, Centurion, 0157",
+    "email": "dssaoffice@icon.co.za",
+    "name": "Down Syndrome South Africa (DSSA)",
+    "phone": "072 652 2377",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://downsyndrome.org.za"
+  },
+  {
+    "id": "ZVaJrVSfEnxEYoEagnpB",
+    "category": "Diagnosis & assessment",
+    "description": "A diagnostic clinic offering assessment for ADHD, autism and developmental delay using ADOS-2 (the gold-standard autism diagnostic tool), CARS-2, the Conner's Rating Scales, and the Griffiths III developmental scale. Address: 119 17th Street, Orange Grove, Johannesburg",
+    "email": "",
+    "name": "Birt Street Neurodevelopmental Clinic",
+    "phone": "072 052 8272",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "ZsgKko84pUTtZrDvBWqL",
+    "category": "School",
+    "description": "A pre-primary school serving Durban North. Address: 149 Kenneth Kaunda Rd, Durban North, Durban, 4051",
+    "email": "",
+    "name": "Headway Pre-Primary School",
+    "phone": "031 563 2288",
+    "provinces": [
+      "KwaZulu-Natal"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "a8v1I50n1sCwIAsqzG2e",
+    "category": "Diagnosis & assessment",
+    "description": "A large state academic hospital providing neurodevelopmental referral services.",
+    "email": "",
+    "name": "Charlotte Maxeke Johannesburg Academic Hospital",
+    "phone": "011 481 5194",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "awc0Ag8SGEWNm1lw5pUm",
+    "category": "Helpline",
+    "description": "A free, 24-hour crisis counselling line for anyone in immediate distress.",
+    "email": "",
+    "name": "SADAG Suicide Crisis Line",
+    "phone": "0800 567 567",
+    "provinces": [
+      "National"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "awckYJZ726k8gXR6GxpX",
+    "category": "Support group",
+    "description": "Established in 1976, this association provides parent and family counselling, outreach, social work referrals, a skills-development programme for young adults (Studio21), a life skills group for adults, two special needs centres (Umthi and Masande), and provincial government advocacy. Address: 73 Van Der Stel Street, Oakdale, Bellville, 7530",
+    "email": "info@downwc.co.za",
+    "name": "Down Syndrome Association Western Cape",
+    "phone": "021 919 8533",
+    "provinces": [
+      "Western Cape"
+    ],
+    "published": true,
+    "website": "https://dsawc.co.za"
+  },
+  {
+    "id": "bLMtaavyYUQz2TfAiF85",
+    "category": "School",
+    "description": "A school offering small class sizes for learners of all needs.",
+    "email": "info@veritasschoolgroup.com",
+    "name": "Veritas Academy",
+    "phone": "060 809 6818",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://veritasacademics.co.za"
+  },
+  {
+    "id": "c9zh4DFTsmZJDbcDrHsN",
+    "category": "School",
+    "description": "A registered non-profit specialised centre for autistic children in Gqeberha, founded by four parents in 2008, also running a young adults skills programme. Address: Humerail, Gqeberha",
+    "email": "",
+    "name": "St Bartz Academy",
+    "phone": "083 345 2179",
+    "provinces": [
+      "Eastern Cape"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "cPVGj6TvyaBhXs6CW0CW",
+    "category": "Recreation",
+    "description": "Officially declared an Autism Friendly Venue by Autism Western Cape in 2018, the aquarium runs a recurring Autism Hour event in partnership with Autism Western Cape, with dedicated sensory-friendly evening sessions. Address: Dock Rd, V&A Waterfront, Cape Town, 8002",
+    "email": "",
+    "name": "Two Oceans Aquarium",
+    "phone": "021 418 3823",
+    "provinces": [
+      "Western Cape"
+    ],
+    "published": true,
+    "website": "https://aquarium.co.za"
+  },
+  {
+    "id": "cjirzdiNdNhmzsaBFP6f",
+    "category": "School",
+    "description": "An autism-specific school located on the West End hospital site in Kimberley. Address: 121 Green Street, West End, Riviera, Kimberley, 8301",
+    "email": "",
+    "name": "Lukhanyo Autism School",
+    "phone": "053 004 0383",
+    "provinces": [
+      "Northern Cape"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "d81Fp1wXZrkf8VBHV55m",
+    "category": "Support group",
+    "description": "The Limpopo provincial branch of Autism South Africa, providing information, referrals and support to autistic people and their families in the province. Address: 01 Pafuri Ave, Polokwane",
+    "email": "Limpopo@autismsouthafrica.org",
+    "name": "Autism Limpopo",
+    "phone": "072 571 6194",
+    "provinces": [
+      "Limpopo"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "eYY1uGZLxCDiRLhw8Y7S",
+    "category": "School",
+    "description": "A government special needs school in Kimberley. Address: John Daka St, Vergenoeg, Kimberley, 8345",
+    "email": "",
+    "name": "Boitumelo Special School",
+    "phone": "053 872 0809",
+    "provinces": [
+      "Northern Cape"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "edljZ8tnurjOrrRo4Eqg",
+    "category": "National organisation",
+    "description": "A shared campus in Braamfontein housing around 30 child-focused non-profits under one roof, including the Johannesburg School for Autism, Els for Autism, and The Sensory Space. A useful single starting point for families in Johannesburg. Address: Gate 13, Cnr Empire Rd & Joubert Street Ext, Braamfontein, Johannesburg",
+    "email": "",
+    "name": "Children's Memorial Institute (CMI)",
+    "phone": "",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "f6EwS6MBIE2a3Yfxz02s",
+    "category": "School",
+    "description": "A public special-needs school serving around 500 learners aged Grade 1 to 10 with intellectual disabilities, offering integrated academics, life skills, and vocational training including plumbing, woodwork and beauty. Address: 417 Pilane St, Tlhabane Unit B, Rustenburg",
+    "email": "",
+    "name": "Iteko Special School",
+    "phone": "014 065 0986",
+    "provinces": [
+      "North West"
+    ],
+    "published": true,
+    "website": "https://itekospecialschool.co.za"
+  },
+  {
+    "id": "fKlBP9nfAfrqONMKpKoU",
+    "category": "Support group",
+    "description": "Based at Red Cross Children's Hospital, this group offers newborn counselling, parent support groups and workshops, a toy library, and a directory of children's disability services run with UCT, with outreach into Khayelitsha and Atlantis. Address: Section S8, Outpatient Dept, Red Cross Children's Hospital, Klipfontein Road, Rondebosch, 7700",
+    "email": "hoyfam@gmail.com",
+    "name": "Down Syndrome Association Support Cape",
+    "phone": "021 652 5526",
+    "provinces": [
+      "Western Cape"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "fUEl7e8Wvrn2OKC4quQ4",
+    "category": "Adult services",
+    "description": "A non-profit in Cape Town's southern suburbs working on public awareness, support and occupational opportunities for autistic adults, including an enrichment programme, a communal home, and the Eco Bugs work enterprise.",
+    "email": "info@adultswithautism.org.za",
+    "name": "The Academy for Adults with Autism",
+    "phone": "021 712 1939",
+    "provinces": [
+      "Western Cape"
+    ],
+    "published": true,
+    "website": "https://adultswithautism.org.za"
+  },
+  {
+    "id": "fz1ylklBqH7MKW9uCkKG",
+    "category": "Therapy",
+    "description": "Founded in 1990, this university centre researches, trains, and advocates for augmentative and alternative communication for people with little or no functional speech, including communication boards, picture systems and speech-generating devices.",
+    "email": "juan.bornman@up.ac.za",
+    "name": "Centre for Augmentative and Alternative Communication (CAAC), University of Pretoria",
+    "phone": "",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://up.ac.za/centre-for-augmentative-alternative-communication"
+  },
+  {
+    "id": "g9DlI0mAaQmdoKr8o1fe",
+    "category": "School",
+    "description": "A remedial school for Grade R to Grade 7 learners, based in Constantia Park, Pretoria. Address: 593 Mendelssohn Street, Constantia Park, Pretoria, 0010",
+    "email": "",
+    "name": "Creative Kidz School",
+    "phone": "061 588 7758",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://creativekidz.org.za"
+  },
+  {
+    "id": "gXjmUiSRdBKfw40F685F",
+    "category": "Diagnosis & assessment",
+    "description": "Provides state psychiatric services for the Cape Winelands area, including occupational therapy and referral to school psychologists. Address: 10 Hospital Street, Lemoenkloof, Paarl, 7646",
+    "email": "Teresa.Philander@westerncape.gov.za",
+    "name": "Paarl Hospital — Psychiatry Department",
+    "phone": "023 860 2500",
+    "provinces": [
+      "Western Cape"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "gbS1G7uIz3Ui6mPVx7iW",
+    "category": "Recreation",
+    "description": "An indoor trampoline and extreme sports park that has run autism-friendly group sessions and joint events with Autism Western Cape. These are periodic events rather than a standing weekly programme — confirm current dates before visiting. Branches in Greenstone, Johannesburg and Claremont, Cape Town. Address: Cnr Van Riebeeck & Modderfontein Rd, Greenstone Hill, Johannesburg, and 25 Stegman Rd, Claremont, Cape Town, 7708",
+    "email": "",
+    "name": "RUSH Extreme",
+    "phone": "021 683 3841",
+    "provinces": [
+      "Gauteng",
+      "Western Cape"
+    ],
+    "published": true,
+    "website": "https://rushsa.co.za"
+  },
+  {
+    "id": "gxB2vLd5JmCECINFCNfJ",
+    "category": "School",
+    "description": "A private specialist school offering academic, physical and life-skills support for learners with intellectual disabilities, learning barriers and autism, using a CAPS-aligned small-class approach. Address: 53 Annie Rd, River View, eMalahleni, 1039",
+    "email": "",
+    "name": "Audeamus School",
+    "phone": "074 174 7457",
+    "provinces": [
+      "Mpumalanga"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "hEI54q2wUWJc9oukvj7M",
+    "category": "School",
+    "description": "A remedial school in Doringkloof, Centurion. Address: 188 Ronel Street, Doringkloof, Centurion",
+    "email": "",
+    "name": "Centurion Remedial Academy",
+    "phone": "012 667 3444",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://centurionremedial.co.za"
+  },
+  {
+    "id": "jcXOsvFSivoyJGX3NgIw",
+    "category": "School",
+    "description": "A school for learners with hearing impairment. Address: Willows, Bloemfontein, 9324",
+    "email": "",
+    "name": "Carel du Toit Special School Bloemfontein",
+    "phone": "072 849 4104",
+    "provinces": [
+      "Free State"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "k1UIOqPl4AHwhHjiegIW",
+    "category": "Support group",
+    "description": "A regional Down syndrome support group serving the Emalahleni (Witbank) area.",
+    "email": "nmalinga391@gmail.com",
+    "name": "Down Syndrome Support Group — Emalahleni",
+    "phone": "072 586 5261",
+    "provinces": [
+      "Mpumalanga"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "kAlNexidkXEHQE96SCsz",
+    "category": "Recreation",
+    "description": "Provides free therapeutic and recreational horse riding for children and adults with disabilities, including autism. Riders are assessed beforehand and need medical consent; branches operate in Cape Town, Durban, Gauteng and Gqeberha. Waiting lists apply.",
+    "email": "",
+    "name": "South African Riding for the Disabled Association (SARDA)",
+    "phone": "021 794 4393",
+    "provinces": [
+      "National"
+    ],
+    "published": true,
+    "website": "https://sarda.co.za"
+  },
+  {
+    "id": "kVuZTfRbfQuiv1LimAxd",
+    "category": "Support group",
+    "description": "A regional Down syndrome support association offering parent support via website, WhatsApp and telehealth, early intervention using the Developmental Resource Stimulation Programme, and self-advocacy support.",
+    "email": "russeldc@ufs.ac.za",
+    "name": "Down Syndrome Association Free State",
+    "phone": "083 375 5058",
+    "provinces": [
+      "Free State"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "koGVf9L4YrTGEDoejYgc",
+    "category": "School",
+    "description": "Offers inclusive, CAPS-aligned education for Grade 1 to 7 learners through its Lighthouse Unit. Address: Windermere, Durban",
+    "email": "admissions@grgs.co.za",
+    "name": "Gordon Road Girls' School — Lighthouse Unit",
+    "phone": "031 303 2628",
+    "provinces": [
+      "KwaZulu-Natal"
+    ],
+    "published": true,
+    "website": "https://grgs.co.za"
+  },
+  {
+    "id": "l6kZGHs0Dote5CjnRXep",
+    "category": "Therapy",
+    "description": "A multidisciplinary practice offering assessment, intervention, support groups, and training across autism, ADHD, dyslexia, dyspraxia and sensory integration.",
+    "email": "hello@neurodiversitycentre.co.za",
+    "name": "The Neurodiversity Centre — Western Cape",
+    "phone": "021 200 8327",
+    "provinces": [
+      "Western Cape"
+    ],
+    "published": true,
+    "website": "https://neurodiversitycentre.co.za"
+  },
+  {
+    "id": "lFs9dQZETkNfVRxJlvhH",
+    "category": "School",
+    "description": "A special needs support programme in Bloemfontein. Address: 57 Nuweveldberg Ave, Bloemfontein",
+    "email": "",
+    "name": "Blaze@The Sanctuary",
+    "phone": "083 257 5750",
+    "provinces": [
+      "Free State"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "ljx1VU59pmMtvJnuhn2x",
+    "category": "National organisation",
+    "description": "A Pretoria-based non-profit focused on building public awareness of autism, sharing practical knowledge with families, and community outreach work across the country.",
+    "email": "",
+    "name": "Autism Foundation of South Africa (AFSA)",
+    "phone": "011 786 4434",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://autismsa.org"
+  },
+  {
+    "id": "m4uTqlMX1YgLY7OSTo9P",
+    "category": "School",
+    "description": "A school in Claudius, Centurion, for learners aged 7 to 19 with intellectual disabilities. Address: 203 Maxwell Rd, Claudius, Centurion, 0037",
+    "email": "",
+    "name": "Sunrise School",
+    "phone": "012 374 3942",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "mdnHCDq48FZ2aN7wNKif",
+    "category": "Recreation",
+    "description": "An inclusive sports and recreation programme, sister initiative to Chaeli Cottage, run from the same site in Plumstead. Address: 16 Culm Road, Plumstead, Cape Town, 7800",
+    "email": "info@chaelisports.co.za",
+    "name": "Chaeli Sports & Recreation Club",
+    "phone": "021 762 3835",
+    "provinces": [
+      "Western Cape"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "mlpeprQTw84w4w9uf2tS",
+    "category": "Support group",
+    "description": "A peer-led parent support group cross-promoted by Autism South Africa and other national organisations.",
+    "email": "autismparentnetwork@gmail.com",
+    "name": "Autism Parent Network",
+    "phone": "",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "oBauZ0VhsXzUogcgLLvC",
+    "category": "Diagnosis & assessment",
+    "description": "A 24-hour state hospital serving the Ekurhuleni area. Address: Modderfontein Rd, Edenvale, 1610",
+    "email": "",
+    "name": "Edenvale Hospital",
+    "phone": "011 321 6000",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "oGCcZuEQGVfSaPopYqdp",
+    "category": "School",
+    "description": "A centre of excellence in Mbombela specialising in autism and related conditions, using ABA, Natural Environment Teaching and Kaufmann approaches. Also offers online classes. Address: Plot 99, Maggiesdal, Mbombela, 1200",
+    "email": "hello@seekedu.co.za",
+    "name": "Seek: Special Education Enriching Kids",
+    "phone": "082 504 4156",
+    "provinces": [
+      "Mpumalanga"
+    ],
+    "published": true,
+    "website": "https://seekedu.co.za"
+  },
+  {
+    "id": "osu4n3NZsZXZdZEvGIUC",
+    "category": "Support group",
+    "description": "A regional Down syndrome support group serving Durban families. Address: 87 Steelcastle Avenue, Newlands West, Durban",
+    "email": "",
+    "name": "Down Syndrome Support Durban",
+    "phone": "078 747 6767",
+    "provinces": [
+      "KwaZulu-Natal"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "pQ20EJmadNbvBLVE9bu6",
+    "category": "School",
+    "description": "A private full-time school for learners with dyslexia, ADHD, autism and learning delays, with small classes and included occupational and speech therapy. Address: 2 Torbaniet Street, West Acres, Mbombela",
+    "email": "info@progratia.co.za",
+    "name": "Progratia Academy",
+    "phone": "013 791 2497",
+    "provinces": [
+      "Mpumalanga"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "pZY7xkz6raEmEvqNXmNk",
+    "category": "School",
+    "description": "A specialised school in Bloemfontein for children on the developmental delay spectrum, following the D-CAPS curriculum with individualised, visual and digital learning. Offers extended hours (06:00–18:00) with aftercare and on-site occupational therapy. Address: 70 Paul Roux Street, Dan Pienaar, Bloemfontein",
+    "email": "info@metanoiaacademy.co.za",
+    "name": "Metanoia Academy",
+    "phone": "078 788 9156",
+    "provinces": [
+      "Free State"
+    ],
+    "published": true,
+    "website": "https://metanoiaacademy.co.za"
+  },
+  {
+    "id": "q0V3anUBeiIA9jFrOBxh",
+    "category": "Diagnosis & assessment",
+    "description": "A state hospital providing neurodevelopmental clinical services. Address: 114 Du Toitspan Road, Kimberley",
+    "email": "",
+    "name": "Kimberley Hospital — Neurodevelopmental Clinic",
+    "phone": "053 802 9111",
+    "provinces": [
+      "Northern Cape"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "qCnZmr5WQlDfFZsWalFW",
+    "category": "School",
+    "description": "A public school for learners with special educational needs in Gqeberha, offering the full CAPS curriculum with small classes and integrated therapy support. Address: 58 Admiralty Way, Summerstrand, Gqeberha, 6001",
+    "email": "admin@caperecifeschool.co.za",
+    "name": "Cape Recife High School",
+    "phone": "041 583 2147",
+    "provinces": [
+      "Eastern Cape"
+    ],
+    "published": true,
+    "website": "https://caperecifeschool.co.za"
+  },
+  {
+    "id": "qNsSAI2KmnapmVJxwEoN",
+    "category": "School",
+    "description": "A school in Olifantsfontein, Midstream, supporting learners with additional needs. Address: 23 Mount Quray St, Olifantsfontein, 1666",
+    "email": "",
+    "name": "Piece of Mind Academy Midstream",
+    "phone": "063 293 7163",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://pieceofmindcentre.com"
+  },
+  {
+    "id": "r6oU2wDbYmZcxXQSdtyB",
+    "category": "School",
+    "description": "The oldest school in Johannesburg offering educational and therapeutic intervention to children with autism and special needs, based in Parktown. Address: Parktown, Johannesburg",
+    "email": "admin@thekeyschool.co.za",
+    "name": "The Key School",
+    "phone": "082 555 6412",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://thekeyschool.org"
+  },
+  {
+    "id": "rAj783J9uB3S7kR8YMMf",
+    "category": "Helpline",
+    "description": "A free, 24-hour counselling and referral line for children, teenagers and their caregivers, toll-free from all networks.",
+    "email": "admin@childlinesa.org.za",
+    "name": "Childline South Africa",
+    "phone": "116",
+    "provinces": [
+      "National"
+    ],
+    "published": true,
+    "website": "https://childlinesa.org.za"
+  },
+  {
+    "id": "rPJ2EeDYX3g9s1nfN9i8",
+    "category": "Diagnosis & assessment",
+    "description": "A state hospital in southern Johannesburg providing general and referral healthcare services. Address: 33 Friars Hill Rd, The Hill, Johannesburg South, 2197",
+    "email": "",
+    "name": "South Rand Hospital",
+    "phone": "011 681 2000",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "rnenzmpgtPTICjotQRjG",
+    "category": "Sensory & equipment",
+    "description": "An occupational-therapist-run supplier of sensory products, including weighted teddies, fidgets and oral regulation tools. Based in Durban, delivers nationwide.",
+    "email": "emma@comfortcreatures.co.za",
+    "name": "Comfort Creatures",
+    "phone": "072 227 8622",
+    "provinces": [
+      "KwaZulu-Natal"
+    ],
+    "published": true,
+    "website": "https://comfortcreatures.co.za"
+  },
+  {
+    "id": "ru6iSizCw7QdsSAcBvPe",
+    "category": "Adult services",
+    "description": "Established in 2015, APPA offers day programmes and residential group homes for autistic adults over 18, preparing them for life outside a schooling environment. Address: 12 York Avenue, Craighall Park, Johannesburg, 2196",
+    "email": "info@appautism.org",
+    "name": "Adult Programme for People with Autism (APPA)",
+    "phone": "082 499 7012",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://appautism.org"
+  },
+  {
+    "id": "sNb41CI9D84g5RaM2ojc",
+    "category": "School",
+    "description": "A public LSEN school in Bloemfontein serving learners with cerebral palsy, physical disabilities and learning disabilities through the mainstream CAPS curriculum, supported by a full multidisciplinary therapy team. Address: 91 Du Plooy Crescent, Fichardt Park, Bloemfontein",
+    "email": "mdupschool@mdup.co.za",
+    "name": "Martie du Plessis Special Needs School",
+    "phone": "051 522 6801",
+    "provinces": [
+      "Free State"
+    ],
+    "published": true,
+    "website": "https://mdup.co.za"
+  },
+  {
+    "id": "srvoqTdeeYRhKCfaxsUm",
+    "category": "School",
+    "description": "An autism-specific school in Wierdapark, Centurion. Address: 302 Badenhorst St, Wierdapark, Centurion, 0149",
+    "email": "littleleaps06@gmail.com",
+    "name": "Little Leaps School for Autism",
+    "phone": "063 331 4459",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://littleleaps.co.za"
+  },
+  {
+    "id": "t3eBBZGgnvgUJVZZF5e1",
+    "category": "School",
+    "description": "A primary and high school in Randpark Ridge, Randburg. Address: 1 Sysie Road, Randpark Ridge, Randburg, 2169",
+    "email": "",
+    "name": "Orion College",
+    "phone": "011 795 1776",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://orioncollege.co.za"
+  },
+  {
+    "id": "tShFjAyCupLWRiPs4hFp",
+    "category": "Early intervention",
+    "description": "A stimulation and development centre in Benoni for children aged 3 and up with intellectual, developmental or physical disabilities. Address: Northmead, Benoni",
+    "email": "",
+    "name": "Apricot Tree Centre for Stimulation and Development",
+    "phone": "",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://apricottree.co.za"
+  },
+  {
+    "id": "txO7jIiJ9icBQkXrwY0G",
+    "category": "Diagnosis & assessment",
+    "description": "A state psychiatric referral hospital serving the Mitchells Plain area. Address: 103 Highlands Drive, Mitchells Plain, Cape Town, 7785",
+    "email": "Shahieda.Benjamin@westerncape.gov.za",
+    "name": "Lentegeur Hospital",
+    "phone": "021 370 1411",
+    "provinces": [
+      "Western Cape"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "u0SaFP7re6ty19AQHgng",
+    "category": "Recreation",
+    "description": "Southern Africa's first children's museum, based at Constitution Hill in Johannesburg, with a dedicated sensory play exhibit designed for autistic children. Address: Constitution Hill, 11 Kotze Street, Braamfontein, Johannesburg",
+    "email": "info@playafrica.org.za",
+    "name": "Play Africa",
+    "phone": "011 480 4892",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://playafrica.org.za"
+  },
+  {
+    "id": "uGzlf9Obnqv7UzAzJ5vp",
+    "category": "School",
+    "description": "A public special school for learners with learning challenges, primary phase, in Polokwane. Address: 225 Suid St, Polokwane Ext 30, 0700",
+    "email": "",
+    "name": "New Horizon Special School",
+    "phone": "015 295 3520",
+    "provinces": [
+      "Limpopo"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "uINviRTYhyown8PpE2hK",
+    "category": "Support group",
+    "description": "A national non-profit dedicated to awareness, education and advocacy around Tourette Syndrome and tic disorders. It does not provide medical, therapeutic or individual support services directly.",
+    "email": "info@tourettesa.org",
+    "name": "Tourette South Africa",
+    "phone": "",
+    "provinces": [
+      "National"
+    ],
+    "published": true,
+    "website": "https://tourettesa.org"
+  },
+  {
+    "id": "ulEITuyCdMY3Un1shDt3",
+    "category": "Recreation",
+    "description": "An indoor play centre and café in Walmer, Gqeberha, offering a safe, relaxed family-friendly play space. Address: Moffett On Main Lifestyle Centre, 109 17th Ave, Charlo, Gqeberha, 6070",
+    "email": "",
+    "name": "Col's Family Cafe",
+    "phone": "",
+    "provinces": [
+      "Eastern Cape"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "upKbtWrnlExeGad0fUoD",
+    "category": "Helpline",
+    "description": "A dedicated toll-free helpline for ADHD-related questions and support, staffed daily from 8am to 8pm.",
+    "email": "",
+    "name": "SADAG ADHD Helpline",
+    "phone": "0800 55 44 33",
+    "provinces": [
+      "National"
+    ],
+    "published": true,
+    "website": "https://sadag.org"
+  },
+  {
+    "id": "vse8NekWZ9Dda9h1OOBs",
+    "category": "Recreation",
+    "description": "A national trampoline park chain running dedicated sensory-friendly sessions with reduced lighting, no loud music, and trained staff. Currently held Tuesdays and Thursdays, 2–5pm, at Menlyn Maine and Fourways Mall. R199 for three hours; free for an accompanying parent or carer. Address: Menlyn Maine, 180 Amarand Ave, Waterkloof Glen, Pretoria, 0181, and Fourways Mall, Winnie Mandela Drive, Fourways, Johannesburg, 2068",
+    "email": "",
+    "name": "BOUNCE Inc — SEN Sessions",
+    "phone": "011 517 2500",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://bounceinc.co.za/sen-sessions"
+  },
+  {
+    "id": "vwP8KuZJWCLczA5Lf42f",
+    "category": "Diagnosis & assessment",
+    "description": "Provides specialised state assessment and diagnosis for autistic children up to age six; older children are referred to the psychiatry department. Autism Western Cape attends weekly and runs monthly parent workshops. Referral required, waiting lists are long. Address: Francie van Zijl Avenue, Tygerberg, Cape Town",
+    "email": "",
+    "name": "Tygerberg Hospital — Neurodevelopmental Clinic",
+    "phone": "021 872 1711",
+    "provinces": [
+      "Western Cape"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "w9viDtjMF84devYklZsM",
+    "category": "School",
+    "description": "A government LSEN school for learners with moderate to severe intellectual disabilities, offering a functional curriculum with therapeutic support. Address: Ext. 11, 7869 Dr Victor Nhlapo Ave, eMbalenhle",
+    "email": "info@basizenispecialschool.co.za",
+    "name": "Basizeni Special School",
+    "phone": "017 685 1197",
+    "provinces": [
+      "Mpumalanga"
+    ],
+    "published": true,
+    "website": "https://basizenispecialschool.co.za"
+  },
+  {
+    "id": "wbgKmu9N6aR8XlBzTcwC",
+    "category": "Support group",
+    "description": "Provides community, support and understanding for autistic people and their families across the Eastern Cape.",
+    "email": "hello@autismec.com",
+    "name": "Autism EC",
+    "phone": "041 581 0650",
+    "provinces": [
+      "Eastern Cape"
+    ],
+    "published": true,
+    "website": "https://autismec.com"
+  },
+  {
+    "id": "weyDfnQ012O1bcNNwkwL",
+    "category": "School",
+    "description": "One of the Western Cape Education Department's seven autism-specific schools. Address: 79 Herbert Street, Sunkist, Bellville, 7530",
+    "email": "herbertstreet.inclusive@wcgschools.gov.za",
+    "name": "Herbert Street Special School",
+    "phone": "021 300 7145",
+    "provinces": [
+      "Western Cape"
+    ],
+    "published": true,
+    "website": "https://herbertstrschool.co.za"
+  },
+  {
+    "id": "wfVecPesYbvzcBb1Ccm2",
+    "category": "Diagnosis & assessment",
+    "description": "A state hospital in Cape Town whose Neuropsychiatry Clinic sees children and adolescents with complex neurodevelopmental conditions including autism, ADHD, tics and OCD. Referral required. Address: Klipfontein Road, Rondebosch, Cape Town",
+    "email": "",
+    "name": "Red Cross War Memorial Children's Hospital",
+    "phone": "021 685 4103",
+    "provinces": [
+      "Western Cape"
+    ],
+    "published": true,
+    "website": "https://health.uct.ac.za/department-psychiatry/red-cross-hospital"
+  },
+  {
+    "id": "xhdo2ffuX3fTiiEik6bN",
+    "category": "School",
+    "description": "A special education centre in Mbombela. Address: 12 Graniet St, West Acres, Mbombela, 1211",
+    "email": "",
+    "name": "Pro Gratia Learning Centre",
+    "phone": "076 981 4733",
+    "provinces": [
+      "Mpumalanga"
+    ],
+    "published": true,
+    "website": "https://progratia.co.za"
+  },
+  {
+    "id": "xzFnAFegH2iULA23UvBq",
+    "category": "Early intervention",
+    "description": "A stimulation centre for children with severe disabilities, alongside an educational school that streams learners by ability, in Mbombela. Address: 8 de Kock Street, Sonheuwel Central, Mbombela, 1201",
+    "email": "",
+    "name": "Dasha Foundation",
+    "phone": "013 741 4039",
+    "provinces": [
+      "Mpumalanga"
+    ],
+    "published": true,
+    "website": ""
+  },
+  {
+    "id": "y3KYbpzUbjK4oUwFhREN",
+    "category": "School",
+    "description": "Provides extra reading and numeracy support on-site for learners needing additional assistance, delivered in small class settings by experienced educators. Address: 226–228 Harley Street, Polokwane Ext 7, 0700",
+    "email": "",
+    "name": "Elica Primary School",
+    "phone": "015 298 8304",
+    "provinces": [
+      "Limpopo"
+    ],
+    "published": true,
+    "website": "https://elicaprimaryschool.co.za"
+  },
+  {
+    "id": "ylSzgucgz9G1y9ScUBAj",
+    "category": "Grants & financial",
+    "description": "A monthly government grant paid to the caregiver of a child under 18 with a severe, permanent disability that requires full-time care. Requires assessment by a state medical officer and a means test; applications are made in person at a SASSA office.",
+    "email": "grantenquiries@sassa.gov.za",
+    "name": "South African Social Security Agency (SASSA) — Care Dependency Grant",
+    "phone": "0800 60 10 11",
+    "provinces": [
+      "National"
+    ],
+    "published": true,
+    "website": "https://sassa.gov.za"
+  },
+  {
+    "id": "ywLNeOzFQbLziBgJ3qIZ",
+    "category": "School",
+    "description": "A special needs school offering Afrikaans-medium instruction with an emphasis on life skills and structured support, in Kroonstad. Address: Presidentia, Kroonstad, 9499",
+    "email": "",
+    "name": "Johan Slabbert Spesiale Skool",
+    "phone": "056 212 3881",
+    "provinces": [
+      "Free State"
+    ],
+    "published": true,
+    "website": "https://jsskool.co.za"
+  },
+  {
+    "id": "zQMLuslmHiVtq4ke53m1",
+    "category": "Support group",
+    "description": "Provides new and general parent support, early childhood development outreach across six Tshwane townships and clinics, education support for teachers and schools, a literacy programme, a school-to-work transition programme, and weekly athletics training. Address: 54 Hofmeyer Road, Lyttelton Manor, Centurion, 0157",
+    "email": "dsat@downs.org.za",
+    "name": "Down Syndrome Association Pretoria/Tshwane",
+    "phone": "012 664 8871",
+    "provinces": [
+      "Gauteng"
+    ],
+    "published": true,
+    "website": "https://downs.org.za"
+  }
+]

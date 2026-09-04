@@ -1,0 +1,42 @@
+[
+  {
+    "id": "O2zVUbZJavO5zM8sEtRQ",
+    "attachments": [],
+    "capacity": 50,
+    "description": "Test Event Paid",
+    "imageAlt": "",
+    "isTicketed": true,
+    "price": 50,
+    "published": true,
+    "startsAt": "2026-08-25T13:30:00Z",
+    "ticketsSold": 1,
+    "title": "Test Event Paid"
+  },
+  {
+    "id": "ufPzSuau4Cp1dN4Dqi4F",
+    "attachments": [],
+    "capacity": 300,
+    "description": "New Test Event Description",
+    "imageAlt": "",
+    "imageUrl": "assets/uploads/events/img-mt2aomkg-7fee6f.webp",
+    "isTicketed": false,
+    "price": 0,
+    "published": true,
+    "startsAt": "2026-08-31T10:00:00Z",
+    "ticketsSold": 0,
+    "title": "New Test Event"
+  },
+  {
+    "id": "ybM4X5vt93TwAhYdQ3ux",
+    "attachments": [],
+    "capacity": 2,
+    "description": "ticket scanning test",
+    "imageAlt": "",
+    "isTicketed": false,
+    "price": 0,
+    "published": true,
+    "startsAt": "2026-08-20T19:15:00Z",
+    "ticketsSold": 1,
+    "title": "ticket scanning test"
+  }
+]

@@ -1,0 +1,45 @@
+name: Backup
+
+on:
+  schedule:
+    # 01:00 UTC is 03:00 SAST. South Africa does not observe daylight saving,
+    # so this stays at 03:00 local all year.
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+# The job commits back into this repository, so it needs write access to
+# contents. It needs nothing else.
+permissions:
+  contents: write
+
+jobs:
+  backup:
+    name: Export published Firestore content
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      # No install step. The script uses built-in fetch and node:fs only, so
+      # there are no dependencies to resolve and nothing to keep updated.
+      - name: Export
+        run: node backup.js
+
+      # The script sorts documents and keys, so an unchanged database produces
+      # byte-identical files. That means git reports no diff and this step does
+      # nothing, rather than committing an empty change every night.
+      - name: Commit if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data; then
+            echo "No content changed since the last run."
+            exit 0
+          fi
+          git add data
+          git commit -m "back up published content, $(date -u +'%Y-%m-%d')"
+          git push

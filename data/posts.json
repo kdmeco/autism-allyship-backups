@@ -1,0 +1,21 @@
+[
+  {
+    "id": "OhwBOQZKqGXJO7HoR2DD",
+    "body": "Test Blog Body Text",
+    "category": "Test Category",
+    "imageAlt": "",
+    "imageUrl": "assets/uploads/blog/img-mt2apef2-46407b.webp",
+    "published": true,
+    "publishedAt": "2026-08-21T01:53:40.306Z",
+    "title": "Test Blog"
+  },
+  {
+    "id": "mPwghINLf40QWCoWYR4I",
+    "body": "BLAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHH",
+    "category": "Testing",
+    "imageAlt": "",
+    "published": true,
+    "publishedAt": "2026-08-21T12:37:12.288Z",
+    "title": "Hello Tester"
+  }
+]
