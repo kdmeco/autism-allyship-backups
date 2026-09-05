@@ -1,5 +1,18 @@
 [
   {
+    "id": "5Gp0U9cjYjEqqkLMRoig",
+    "attachments": [],
+    "capacity": 200,
+    "description": "This is a mock of setting up an event through the admin Dashboard.",
+    "imageAlt": "",
+    "isTicketed": true,
+    "price": 100,
+    "published": true,
+    "startsAt": "2026-09-18T06:00:00Z",
+    "ticketsSold": 0,
+    "title": "New Event Test 2"
+  },
+  {
     "id": "O2zVUbZJavO5zM8sEtRQ",
     "attachments": [],
     "capacity": 50,
