@@ -14,6 +14,7 @@ a billing account, and this project deliberately has no payment card on any acco
 | `data/galleries.json` | Album records: title, year, cover, and the ordered image list |
 | `data/events.json` | Published events |
 | `data/posts.json` | Published blog articles, including the full body text |
+| `data/media.json` | Published interviews and media appearances for the Media Gallery |
 
 One file per collection. Each is an array of documents, each with its Firestore document `id`
 followed by its fields, keys sorted alphabetically.
@@ -82,7 +83,7 @@ listed in `images`. Recreate the album record with the same `url` and `thumbUrl`
 photographs reappear. Keep the array in its existing order, which is the display order.
 
 **To restore everything**, work through the collections in this order: `resources`, then `posts`,
-then `galleries`, then `events`. Events last, because ticket records reference them.
+then `media`, then `galleries`, then `events`. Events last, because ticket records reference them.
 
 ## Checking a backup is current
 

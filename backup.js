@@ -1,7 +1,7 @@
 // Pulls the foundation's published Firestore content into plain JSON files.
 //
 // No credential is needed and none should be added. The security rules already
-// allow anyone to read galleries outright, and to read events, posts and
+// allow anyone to read galleries outright, and to read events, posts, media and
 // resources as long as the query filters on published == true. That is exactly
 // what a visitor's browser does, so this script is doing nothing a member of
 // the public could not do. Adding a service account here would put a
@@ -20,7 +20,7 @@ const OPEN = ["galleries"];
 // Collections whose rule is `allow read: if resource.data.published == true`.
 // Firestore refuses to list these at all unless the query carries the same
 // condition, so a plain fetch returns 403 and a filtered query returns rows.
-const PUBLISHED = ["resources", "events", "posts"];
+const PUBLISHED = ["resources", "events", "posts", "media"];
 
 // Firestore returns every value wrapped in its type, for example
 // { stringValue: "x" }. Unwrapping makes the committed files readable in a
