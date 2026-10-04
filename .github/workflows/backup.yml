@@ -38,6 +38,18 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           if git diff --quiet -- data; then
             echo "No content changed since the last run."
+            # GitHub disables scheduled workflows in public repos after 60
+            # days without a commit. An unchanged database would reach that
+            # eventually, so after 45 quiet days the run stamps LAST-CHECKED
+            # with today's date to reset the clock, well short of the
+            # deadline.
+            last_commit=$(git log -1 --format=%ct)
+            if (( $(date -u +%s) - last_commit > 45 * 86400 )); then
+              date -u +'%Y-%m-%d' > LAST-CHECKED
+              git add LAST-CHECKED
+              git commit -m "record that the nightly backup still runs, $(date -u +'%Y-%m-%d')"
+              git push
+            fi
             exit 0
           fi
           git add data
