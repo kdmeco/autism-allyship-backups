@@ -57,10 +57,10 @@ node backup.js
 
 Node 18 or later. There are no dependencies to install.
 
-**One thing to know:** GitHub disables scheduled workflows on a repository with no activity for
-60 days, and emails the owner first. A nightly commit usually counts as activity, but a long
-quiet period could trip it. If the backups stop, check the Actions tab for a disabled schedule
-and re-enable it.
+**One thing to know:** GitHub disables scheduled workflows on a public repository with no commits
+for 60 days. Since 4 October 2026 the workflow guards against that itself: after 45 days with no
+content change it commits today's date to `LAST-CHECKED`, which resets the clock. If the backups
+ever stop anyway, check the Actions tab for a disabled schedule and re-enable it.
 
 ## Restoring
 
