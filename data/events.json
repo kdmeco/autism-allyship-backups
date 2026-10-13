@@ -1,1 +1,41 @@
-[]
+[
+  {
+    "id": "2Iwiex05wQMcTGzVDN0i",
+    "attachments": [],
+    "capacity": 40,
+    "description": "A two hour practical workshop for parents and caregivers on sensory processing in autistic children, led by an occupational therapist.\n\nVenue: Hatfield Community Hall, 1120 Burnett Street, Hatfield, Pretoria. Secure parking behind the hall.\n\nThe room has natural light, no fluorescent lights, and a separate quiet room. Step free entrance and an accessible toilet.\n\nTea and coffee included. Your ticket covers one adult.\n\nThis is a demo event created for a presentation.",
+    "imageAlt": "",
+    "isTicketed": true,
+    "price": 80,
+    "published": true,
+    "startsAt": "2026-11-07T07:30:00Z",
+    "ticketsSold": 1,
+    "title": "Demo: Parent workshop, understanding sensory needs"
+  },
+  {
+    "id": "5iviJmbcaMIMHE4MzjKI",
+    "attachments": [],
+    "capacity": 150,
+    "description": "Join us for a relaxed day out for autistic people, their families and friends.\n\nVenue: Pretoria National Botanical Garden, 2 Cussonia Avenue, Brummeria, Pretoria. Free parking at the main gate.\n\nThere will be a quiet tent with soft lighting and beanbags, sensory play for the children and plenty of shade. The paths are paved and wheelchair accessible.\n\nBring your own picnic. Water is provided.\n\nThis is a demo event created for a presentation.",
+    "imageAlt": "",
+    "isTicketed": false,
+    "price": 0,
+    "published": true,
+    "startsAt": "2026-11-21T08:00:00Z",
+    "ticketsSold": 0,
+    "title": "Demo: Autism Family Picnic 2026"
+  },
+  {
+    "id": "zfnabOM4qqLSEzvoZaD3",
+    "attachments": [],
+    "capacity": 0,
+    "description": "A short community walk to mark World Autism Awareness Day, followed by tea and a talk from autistic self advocates.\n\nVenue: Union Buildings gardens, Government Avenue, Arcadia, Pretoria. Meet at the lower gardens entrance.\n\nThe route is 2 km on paved paths and suitable for wheelchairs and prams. A quiet area was set up near the start.\n\nThis is a demo event created for a presentation.",
+    "imageAlt": "",
+    "isTicketed": false,
+    "price": 0,
+    "published": true,
+    "startsAt": "2026-04-02T06:00:00Z",
+    "ticketsSold": 0,
+    "title": "Demo: World Autism Awareness Day walk"
+  }
+]
